@@ -20,7 +20,7 @@ setPacientes(pacientesActualizados)
 }
 
   return (
-    <div className='container mx-auto mt-20'>
+    <div className='container mx-auto mt-10'>
   <Header
   
   />
